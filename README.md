@@ -15,7 +15,7 @@ Fecha: Abril 2026
 ## Planteamiento
 
 
-Lev Manovich, en su obra *El software toma el mando* (2013),  plantea una idea en la que una vez entendida, cambia la forma en la que uno mismo mira cualquier aplicación o plataforma digital. El software no es una simple herramienta que usamos para trabajar con medios existentes sino que es un motor que los transforma y los fusiona dando lugar a experiencias nuevas. Este fenómeno lo llama Hibridación. Es importante no confundirlo con la multimedia. En un entorno multimedia, los distintos medios (texto, imagen,vídeo, sonido) conviven uno al lado del otro, pero cada uno mantiene su propia lógica. En cambio, en la hibridación se produce algo más profundo: como escribe Manovich "Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles" ( Manovich, 2013, p 183). Es decir, no es que los medios se coloquen juntos en una pantalla, sino que sus técnicas se mezclan a nivel de software generando algo que antes no existía.
+Lev Manovich, en su obra *El software toma el mando* (2013),  plantea una idea en la que una vez entendida, cambia la forma en la que uno mismo mira cualquier aplicación o plataforma digital. El software no es una simple herramienta que usamos para trabajar con medios existentes sino que es un motor que los transforma y los fusiona dando lugar a experiencias nuevas. Este fenómeno lo llama Hibridación. Es importante no confundirlo con la multimedia.Como explica Adell (2014), en un entorno multimedia, los distintos medios (texto, imagen,vídeo, sonido) conviven uno al lado del otro, pero cada uno mantiene su propia lógica y se experimenta por separado. En cambio, en la hibridación se produce algo más profundo: como escribe Manovich "Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles" ( Manovich, 2013, p 183). Es decir, no es que los medios se coloquen juntos en una pantalla, sino que sus técnicas se mezclan a nivel de software generando algo que antes no existía.
 
 Para identificar estos casos, Manovich propone "el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos" (Manovich, 2013 . p201), y nos da pistas concretas: la hibridación puede darse  a) **cuando el software ofrece nuevas formas de representar al mundo** mediante la manipulación de datos o b)**cuando ofrece nuevas maneras de navegar e interaccionar**  con el medio, es decir, cuando la hibridación se produce en la propia interfaz de usuario.
 
@@ -57,6 +57,9 @@ Destaco también como la funcionalidad hibrida entre lo físico y lo digital ya 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Adell, F. (2014). Remediación, multimedia e hibridación de los medios. *Fundamentos y evolución de la multimedia* [blog]. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Amazon. (s.f.). *Amazon AR View*.  https://www.amazon.com/products
+* Incredibox. (s.f.). *Incredibox*.  https://www.incredibox.com/es/
 
 
 ----
