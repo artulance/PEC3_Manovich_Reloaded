@@ -41,6 +41,17 @@ Otro aspecto interesante es que integra una dimensión social. Una vez que el us
 
 Cuando compramos algo por internet, normalmente lo hacemos a partir de fotografías y una descripción de texto. Esto ha sido una limitación evidente: no puedes tocar el producto, no puedes darle la vuelta y no puedes ver cómo queda en el salón o si el tamaño es el que nos imaginamos. **Amazon view** es la respuesta de Amazon a este problema y desde la perspectiva de manovich, es un caso fascinante de hibridación entre el objeto físico, la visualización tridimensional, la realidad aumentada y la interfaz de comercio electrónico.
 
+La funcionalidad permite al usuario ver un modelo 3D del producto directamente desde la aplicación. Se puede rotar el objeto, hacer zoom, observarlo desde todos los ángulos. Pero lo realmente interesante es la opción de **realidad aumentada** (AR): apuntando con la cámara del móvil, el software superpone el producto al entorno real del usuario. Así, puedes ver cómo quedaría una lámpara encima de tu escritorio, si ese mueble cabe en el rincón del salón, o qué aspecto tiene un par de zapatillas al lado de las que ya tienes por ejemplo.
+
+Si nos ponemos de nuevo las *"gafas de Manovich"*, lo que está ocurriendo aquí es exactamente lo que él describe como "El encuentro de diversas técnicas que anteriomente pertenecían a medios distintos" (Manovich, 2013, p.201). Las técnicas del catálogo comercial, modelización 3D, la visión por computador y las de la fotografía en tiempo real se fusionan en una experiencia. No es que el usuario vea primero una foto, luego el modelo 3D, active la cámara... el software integra todo esto en un flujo continuo donde cada técnica alimenta a las demás.
+
+Amazon View es el tipo a) de hibridación que describe Manovich. Ofrece nuevas formas de representar el mundo mediante la manipulación de datos. El modelo 3D de un producto no es simplemente una imagen bonita, es una estructura de datos que el software puede manipular, escalar, iluminar y proyectar sobre el entorno real capturado por la cámara. Gracias a esta manipulación de datos, el usuario puede ver un objeto que no posee aún como si estuviera en su poder. 
+
+El principio de modularidad también está presente. Cada producto es un módulo independiente con su modelo 3D, su ficha técnica, sus reseñas y su precio. El software puede recombinar estos módulos de formas distintas: en un listado de resultados, en una vista 3D individual, proyectado en realidad aumentada sobre la mesa del usuario, o comparado lado a lado con otros productos similares. La misma información de base se presenta de múltiples formas gracias a la lógica del software.
+
+Destaco también como la funcionalidad hibrida entre lo físico y lo digital ya que tradicionalmente la experiencia de compra online y la de compra en tienda física eran dos cosas muy distintas. Amazon view fusiona ambas: estas en tu casa (entorno físico) pero estás viendo un producto virtual (entorno digital) integrado en tu espacio real (realidad aumentada). El software actúa como mediador entre estos dos mundos, creando un espacio híbrido que no es ni completamente online ni offline.
+
+
 
 
 ### Referencias y Bibliografía
