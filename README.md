@@ -10,7 +10,7 @@ Fecha: Abril 2026
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
-
+---
 
 ## Planteamiento
 
@@ -21,8 +21,13 @@ Para identificar estos casos, Manovich propone "el encuentro de diversas técnic
 
 En este ensayo voy a analizar dos casos que encajan bien con estas ideas: Incredibox y Amazon View. Ambos son ejemplos actuales de cómo el software toma el mando de campos muy distintos como lo son la creación musical y la compra de productos.
 
+---
 
 ## Re-descubriendo la hibridacion: Caso 1, Incredibox - Cuando hacer música se convierte en un juego visual
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Incredibox_%282019%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="incredibox logo" width="80">
+</p>
 
 La primera vez que abres Incredibox te quedas un poco desconcertado, no sabes muy bien si estas ante un juego, una aplicación musical o una obra de arte interactiva. Y ahí está precisamente la gracia: Incredibox es todas esas cosas a la vez y eso es lo que Manovich llamaría hibridación.
 La mecánica es sencilla pero muy ingeniosa. En la pantalla aparecen varios personajes animados con un estilo gráfico muy cuidado, el usuario puede arrastrar iconos de sonidos sobre ellos. Cada icono representa un tipo de elemnto musical: un ritmo de beatbox, una melodía, un efecto, un coro... Al ir colocando estos iconos, los personajes empiezan a cantar o marcar el ritmo y el usuario va construyendo una pieza musical en tiempo real. No hace falta saber nada de música porque el software se encarga de que todo encaje armónicamente.
@@ -35,9 +40,15 @@ Manovich habla mucho del principio de modularidad en el software: la idea de que
 
 Otro aspecto interesante es que integra una dimensión social. Una vez que el usuario ha creado su mezcla puede grabarla y compartirla con la comunidad. Las mejores canciones se publican en una galería online donde otros usuarios pueden escucharlas y votarlas. Aquí el software añade otra capa híbrida: la red social y la curación colectiva convirtiendo el acto creativo en una experiencia participativa.
 
-
+---
 
 ## Re-descubriendo la hibridacion: Caso 2, Amazon view - Comprar tocando con los ojos
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="amazon logo" width="80">
+</p>
+
+
 
 Cuando compramos algo por internet, normalmente lo hacemos a partir de fotografías y una descripción de texto. Esto ha sido una limitación evidente: no puedes tocar el producto, no puedes darle la vuelta y no puedes ver cómo queda en el salón o si el tamaño es el que nos imaginamos. **Amazon view** es la respuesta de Amazon a este problema y desde la perspectiva de manovich, es un caso fascinante de hibridación entre el objeto físico, la visualización tridimensional, la realidad aumentada y la interfaz de comercio electrónico.
 
@@ -52,7 +63,7 @@ El principio de modularidad también está presente. Cada producto es un módulo
 Destaco también como la funcionalidad hibrida entre lo físico y lo digital ya que tradicionalmente la experiencia de compra online y la de compra en tienda física eran dos cosas muy distintas. Amazon view fusiona ambas: estas en tu casa (entorno físico) pero estás viendo un producto virtual (entorno digital) integrado en tu espacio real (realidad aumentada). El software actúa como mediador entre estos dos mundos, creando un espacio híbrido que no es ni completamente online ni offline.
 
 
-
+---
 
 ### Referencias y Bibliografía
 
@@ -60,6 +71,8 @@ Destaco también como la funcionalidad hibrida entre lo físico y lo digital ya 
 * Adell, F. (2014). Remediación, multimedia e hibridación de los medios. *Fundamentos y evolución de la multimedia* [blog]. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * Amazon. (s.f.). *Amazon AR View*.  https://www.amazon.com/products
 * Incredibox. (s.f.). *Incredibox*.  https://www.incredibox.com/es/
+* https://commons.wikimedia.org/wiki/File:Incredibox_(2019).svg
+* https://es.wikipedia.org/wiki/Archivo:Amazon_logo.svg
 
 
 ----
